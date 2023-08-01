@@ -1,19 +1,22 @@
 # Welcome to My Mastermind
-***
+Welcome to my_mastermind.
+HELLO Here, it's the Resume of my_project : my_mastermind...
+
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem is to resolve the challenge of to reproduce the Big and Famous Game Mastermind consist at to find the good combination of code at trought n-try or chance. This game is played with min 2 players, the first player fixe a code of color (or number like our exercise) and the second player must to get a good combination fixed by the first player. The Game finish when the second player find or lose the good combination.
+
 
 ## Description
-TODO - How have you solved the problem?
+For to resolve this problem, i've use the differents properties searched on the website and diverses,without forgot to know what is a Makefile, and How to create one with a data in our possession. I've created also different function for to call when the need is here. I've also learned others Bookstore for this program.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+My project have a makefile, so for install this, we can to do in the terminal : Make mastermind. And the Project will be tested. For play we can tap : echo "1234\n2345" | ./my_mastermind -c 4567 and the project will work.
 
 ## Usage
-TODO - How does it work?
+Just by assimilating the differents properties learned on the website.
 ```
-./my_project argument1 argument2
+./my_project Makefile, my_mastermind.c, my_mastermind, my_mastermind.o
 ```
 
 ### The Core Team
